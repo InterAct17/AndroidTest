@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
         ///Yes
         //Some release fix
         // some features
-        //Upgrades
+        //upgrades 123
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
